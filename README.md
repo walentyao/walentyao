@@ -1,4 +1,3 @@
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh; color:red;">
-    asd
-    asd
+<div align="center" style="background: aqua">
+    <img src="https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif" alt="asd">
 </div>
