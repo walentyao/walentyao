@@ -1,4 +1,4 @@
-<div align="center" style="background: aqua">
+<div width="100%" style="background: aqua">
     <img src="github-header-image.png" alt="asd">
 </div>
 
