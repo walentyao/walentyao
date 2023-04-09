@@ -1,6 +1,8 @@
 <div align="center" style="background: aqua">
     <img src="github-header-image.png" alt="asd">
 </div>
+
+###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=1000&height=30&lines=I+am+a+student+of+the+Faculty+of+Computer+Technology+and+Applied+Mathematics)](https://git.io/typing-svg)
 ### Languages and Tools:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=097CDB)
